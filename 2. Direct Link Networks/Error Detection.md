@@ -16,3 +16,6 @@ For example, odd parity sets the eighth bit to 1 if needed to give an odd number
 The idea behind the Internet checksum is very simple—you add up all the words that are transmitted and then transmit the result of that sum. The result is called the checksum. The receiver performs the same calculation on the received data and compares the result with the received checksum. If any transmitted data, including the checksum itself, is corrupted, then the results will not match, so the receiver knows that an error occurred.
 
 a pair of single-bit errors, one of which increments a word and one of which decrements another word by the same amount, will go undetected.
+
+# Cyclic Redundancy Check
+a 32-bit CRC gives strong protection against common bit errors in messages that are thousands of bytes long
