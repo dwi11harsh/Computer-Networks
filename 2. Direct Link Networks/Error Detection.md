@@ -5,4 +5,12 @@
 
 - The basic idea behind any error detection scheme is to add redundant information to a frame that can be used to determine if errors have been introduced.
 - In general, these redundant bits are referred to as error-detecting codes.
-- In specific cases, when the algorithm to create the code is based on addition, they may be called a checksum.
+- In specific cases, when the algorithm to create the code is based on addition, they may be called a *checksum*.
+
+# Two-Dimensional Parity
+For example, odd parity sets the eighth bit to 1 if needed to give an odd number of 1s in the byte, and even parity sets the eighth bit to 1 if needed to give an even number of 1s in the byte.
+
+![[Screenshot 2024-10-30 at 1.17.33 PM.png]]
+
+# Internet Checksum Algorithm
+The idea behind the Internet checksum is very simple—you add up all the words that are transmitted and then transmit the result of that sum. The result is called the checksum. The receiver performs the same calculation on the received data and compares the result with the received checksum. If any transmitted data, including the checksum itself, is corrupted, then the results will not match, so the receiver knows that an error occurred.
