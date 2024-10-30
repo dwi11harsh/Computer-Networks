@@ -21,3 +21,4 @@ a pair of single-bit errors, one of which increments a word and one of which dec
 a 32-bit CRC gives strong protection against common bit errors in messages that are thousands of bytes long
 
 - The theoretical foundation of the cyclic redundancy check is rooted in a branch of mathematics called finite fields.
+The theoretical foundation of the cyclic redundancy check is rooted in a branch of mathematics called ==finite fields==.
