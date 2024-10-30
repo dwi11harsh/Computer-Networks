@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "2. Direct Link Networks/1. Framing.md",
+                "file": "2. Direct Link Networks/Error Detection.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "1. Framing"
+              "title": "Error Detection"
             }
           }
         ]
@@ -166,21 +166,21 @@
   },
   "active": "bff3a5f718778303",
   "lastOpenFiles": [
-    "Screenshot 2024-10-30 at 1.03.45 PM.png",
-    "Screenshot 2024-10-30 at 12.54.36 PM.png",
-    "Screenshot 2024-10-30 at 12.44.17 PM.png",
-    "Screenshot 2024-10-30 at 12.38.46 PM.png",
+    "2. Direct Link Networks/1. Framing.md",
+    "2. Direct Link Networks/Error Detection.md",
+    "public/Screenshot 2024-10-30 at 1.03.45 PM.png",
+    "public/Screenshot 2024-10-30 at 12.54.36 PM.png",
+    "public/Screenshot 2024-10-30 at 12.44.17 PM.png",
+    "public/Screenshot 2024-10-30 at 12.38.46 PM.png",
     "public/Screenshot 2024-10-28 at 9.28.15 PM.png",
     "public/Screenshot 2024-10-28 at 9.28.04 PM.png",
     "public/Screenshot 2024-10-28 at 9.20.59 PM.png",
     "public/Screenshot 2024-10-28 at 8.54.54 PM.png",
     "1. Foundation/4. Implementing Network Software.md",
-    "2. Direct Link Networks/1. Framing.md",
     "2. Direct Link Networks",
     "1. Foundation/3. Network Architecture.md",
     "public/Screenshot 2024-10-28 at 4.58.47 PM.png",
     "public/Screenshot 2024-10-28 at 4.57.34 PM.png",
-    "public/Screenshot 2024-10-28 at 3.56.14 PM.png",
     "1. Foundation/2. Requirements.md",
     "1. Foundation/1. Building a Network.md",
     "0. Book/Computer Newtorks | Peterson, Davie.pdf",
