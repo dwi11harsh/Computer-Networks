@@ -77,7 +77,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 200,
+    "collapsed": true
   },
   "right": {
     "id": "22d096d7da52ba7d",
@@ -163,7 +164,7 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "0ce332a14da7417b",
+  "active": "bff3a5f718778303",
   "lastOpenFiles": [
     "public/Screenshot 2024-10-28 at 9.28.15 PM.png",
     "public/Screenshot 2024-10-28 at 9.28.04 PM.png",
